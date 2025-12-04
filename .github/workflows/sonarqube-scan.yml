@@ -1,4 +1,4 @@
-name: Run Sonar_Qube with Maven 1st
+name: Run Sonar_Qube with Maven 1st commit
 
 on: push
 
